@@ -31,19 +31,6 @@ My secret weapon? **AI-Assisted Development.** I actively leverage tools like **
 
 ---
 
-### 📊 My GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishi-pavan-r&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff7b72&icon_color=ff7b72" height="180em" alt="Rishi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi-pavan-r&theme=radical&hide_border=true&bg_color=0d1117&fire=ff7b72&ring=ff7b72" height="180em" alt="Rishi's streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-pavan-r&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff7b72" alt="Top Langs" />
-</p>
-
----
-
 ### 🌟 Featured Projects
 
 **🌐 Trendrix - AI-Powered Affiliate Platform (Live)**
